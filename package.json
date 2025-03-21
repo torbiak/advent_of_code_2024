@@ -1,0 +1,23 @@
+{
+  "name": "advent_of_code_2024",
+  "version": "1.0.0",
+  "description": "Advent of Code 2024 solutions",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/torbiak/advent_of_code_2024"
+  },
+  "license": "MIT",
+  "author": "Jordan Torbiak",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@jest/globals": "^29.7.0",
+    "@tsconfig/node23": "^23.0.0",
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.6",
+    "typescript": "^5.8.2"
+  }
+}
